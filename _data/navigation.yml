@@ -1,0 +1,25 @@
+# main links
+main:
+  - title: "Etiquetas"
+    url  : /etiquetas/
+  - title: "Categorías"
+    url  : /categorías/
+  - title: "Acerca de.."
+    url: /about/
+  - title: "Guía rápida"
+    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+
+#  - title: "Etiquetas"
+#     url: tags.html
+#  - title: "Categorías"
+#    url: categories.html
+
+
+
+#  - title: "Sample Posts"
+#    url: /year-archive/
+#  - title: "Sample Collections"
+#    url: /collection-archive/
+#  - title: "Sitemap"
+#    url: /sitemap.xml
+
